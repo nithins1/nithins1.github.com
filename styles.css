@@ -1,0 +1,25 @@
+.large
+{
+  font-size: large;
+}
+
+.subtitle
+{
+  font-size: medium;
+  color: gray;
+}
+
+.small
+{
+  font-size: small;
+}
+
+.centered
+{
+  text-align: center;
+}
+
+.left
+{
+  text-align: left;
+}
